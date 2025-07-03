@@ -1,0 +1,15 @@
+# Install Required Python Libraries
+
+streamlit
+datetime
+speech_recognition 
+wikipedia
+webbrowser 
+os
+random
+pyautogui
+pyjokes
+pyttsx3
+threading
+requests
+pyaudio
