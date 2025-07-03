@@ -42,7 +42,7 @@ It combines speech recognition, text-to-speech, and external APIs to provide an 
    git clone https://github.com/gitwithardik/ai-voice-assistant.git
 2. Navigate to the project directory:
    ```bash
-   cd ai-voice-assistant
+   cd AI-Voice-Assistant
 3. Install requirements:
    ```bash
    pip install -r requirements.txt
