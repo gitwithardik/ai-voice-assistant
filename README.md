@@ -39,7 +39,7 @@ It combines speech recognition, text-to-speech, and external APIs to provide an 
 # Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gitwithardik/ai-voice-assistant.git
+   git clone https://github.com/gitwithardik/AI-Voice-Assistant.git
 2. Navigate to the project directory:
    ```bash
    cd AI-Voice-Assistant
