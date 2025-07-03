@@ -1,4 +1,4 @@
-# Ai Voice Assistant
+# AI Voice Assistant
 This project is a Python-based AI Voice Assistant with a modern Streamlit interface. It allows users to interact through text and voice commands to perform common tasks like:
 
 🕒 Telling the current time and date
